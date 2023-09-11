@@ -2,9 +2,12 @@
 
 # User Stories
 
-so I can help my daughter with maths, I'd like a calculator to add 2 numbers together  
-so I can help my daughter with maths, I'd like a calculator to multiply 2 numbers together  
-so I can help my daughter with maths, I'd like a calculator that shows my transaction history  
+-so I can help my daughter with maths, I'd like a calculator to add 2 numbers together  
+
+-so I can help my daughter with maths, I'd like a calculator to multiply 2 numbers together  
+
+-so I can help my daughter with maths, I'd like a calculator that shows my transaction history  
+
 
 
 | Classes         | Methods/Properties                                 | Scenario                        | Outputs          |
